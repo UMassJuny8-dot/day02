@@ -1,6 +1,7 @@
 # random 모듈을 이용해서 1~45 중 중복 없는 번호 6개를 뽑고
 # 자료구조 list(중복가능), set(중복불가) : set이용, 버튼을 누르면 5세트 한번에 생성
 # datatime 으로 생성 시간도 함께 보여준다.
+#dddddd
 
 import streamlit as st
 import random
